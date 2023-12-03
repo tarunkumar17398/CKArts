@@ -114,6 +114,8 @@ function reset() {
   document.getElementById('amountInWords').innerText = ''; // Reset Amount in Words
 }
 
+
+
 function openPopupResult() {
   document.getElementById('popupResultContainer').style.display = 'block';
 }
